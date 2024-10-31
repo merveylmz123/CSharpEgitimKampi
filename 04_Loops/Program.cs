@@ -137,9 +137,9 @@ namespace _04_Loops
             //int ones, tens, hundred;
             //int sum;
 
-            //ones = number % 10; //birler basamağı
-            //tens = (number % 100) / 10; //onlar basamağı
-            //hundred = number / 100; // yüzler basamağı
+            //ones = number % 10;
+            //tens = (number % 100) / 10;
+            //hundred = number / 100;
 
             //Console.WriteLine(ones + "-" + tens + "-" + hundred);
 
